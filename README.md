@@ -48,7 +48,7 @@ Edit
 - Are there racial disparities in poverty and education levels?
 - Can we visualize multivariate correlations to extract insights?
 
-See the [notebook here](notebook/How%20Education,%20Race,%20and%20Income%20Shape%20Poverty%20in%20the%20U.S..ipynb) 📓
+See the [notebook here](https://github.com/s-sana-sharifi/poverty-analysis-us/blob/main/How%20Education%2C%20Race%2C%20and%20Income%20Shape%20Poverty%20in%20the%20U.S..ipynb) 📓
 
 ---
 

@@ -67,6 +67,8 @@ Install dependencies via pip:
 
 ```bash
 pip install -r requirements.txt
+```
+
 👤 Author
 S. Sana Sharifi
 📧 s.sana.sharify@gmail.com

@@ -1,4 +1,4 @@
-# 🧠 Poverty Analysis in the US (2015)  
+# Poverty Analysis in the US (2015)  
 A multivariate data analysis project exploring how education, race, and income affect poverty levels across US states.
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
@@ -7,7 +7,7 @@ A multivariate data analysis project exploring how education, race, and income a
 
 ---
 
-## 📊 Overview
+## Overview
 
 This project uses publicly available US census-style datasets (2015) to explore the correlation between:
 
@@ -20,7 +20,7 @@ Data was cleaned, merged, and analyzed using Python libraries such as `pandas`, 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 poverty-analysis-us/
 │
@@ -41,7 +41,7 @@ Edit
 
 ---
 
-## 📌 Key Questions Answered
+## Key Questions Answered
 
 - Does high school completion correlate with lower poverty?
 - How does income relate to education and poverty?
@@ -52,7 +52,7 @@ See the [notebook here](notebook/How%20Education,%20Race,%20and%20Income%20Shape
 
 ---
 
-## 📚 Dataset Source
+## Dataset Source
 
 Original data adapted from this Kaggle tutorial:  
 **[Seaborn Tutorial for Beginners by kanncaa1](https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners)**
@@ -61,7 +61,7 @@ All datasets are publicly available and used for educational purposes.
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 Install dependencies via pip:
 
@@ -72,7 +72,7 @@ S. Sana Sharifi
 📧 s.sana.sharify@gmail.com
 🌐  | GitHub Profile
 
-📄 License
+License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 yaml

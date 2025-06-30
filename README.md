@@ -70,13 +70,9 @@ pip install -r requirements.txt
 ```
 
 👤 Author
-S. Sana Sharifi
-📧 s.sana.sharify@gmail.com
+Sana Sharifi
+📧 sana.sharifi.me@gmail.com
 🌐  | GitHub Profile
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-yaml
-Copy
-Edit
